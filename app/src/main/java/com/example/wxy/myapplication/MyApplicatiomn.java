@@ -17,5 +17,9 @@ public class MyApplicatiomn extends Application {
         System.out.println("34");
         System.out.println("12");
         System.out.println("34");
+        System.out.println("12");
+        System.out.println("34");
+        System.out.println("12");
+        System.out.println("34");
     }
 }
