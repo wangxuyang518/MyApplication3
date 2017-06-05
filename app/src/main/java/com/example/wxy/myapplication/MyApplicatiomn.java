@@ -13,5 +13,9 @@ public class MyApplicatiomn extends Application {
     public void onCreate() {
         super.onCreate();
         Tiny.getInstance().init(this);
+        System.out.println("12");
+        System.out.println("34");
+        System.out.println("12");
+        System.out.println("34");
     }
 }
